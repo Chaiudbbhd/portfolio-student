@@ -1,10 +1,12 @@
 1. its a simple and attractive react project for students 
-2. to run this application 
+2. to run this application
+
+
 2.1 - clone this repo
 2.2 - install yarn using terminal 
     |
     ---> Windows(yarn install),Mac(sudo yarn install)
-3. run this project 
+4. run this project 
 |
 --->yarn install for both mac and windows
 __________________________________________________________
