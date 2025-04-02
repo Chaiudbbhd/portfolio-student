@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I code cool full stack websites",
-        third: "I deploy projects in cloud(AWS)",
+        third: "I deploy projects in cloud",
     },
     description: "A passionate CSE student diving into Java full-stack development, DevOps, and cloud technologies while creating innovative projects.",
     your_img_url: "https://i.ibb.co/tTC58zNn/Whats-App-Image-2025-03-09-at-19-38-39.jpg",
@@ -103,9 +103,9 @@ const dataportfolio = [
       link: "https://github.com/Chaiudbbhd/Payroll_System.git", // GitHub link
     },
     {
-      img: "https://i.ibb.co/8gX3ZZRx/love.webp",
-      description: "A special day to celebrate love and affection, often observed by exchanging gifts, flowers, and heartfelt messages. It symbolizes deep emotional connections and appreciation for loved ones",
-      link: "https://github.com/yourusername/spotify-clone",
+      img: "https://i.ibb.co/B2KRMMbj/Chat-GPT-Image-Apr-2-2025-07-47-13-PM.png",
+      description: "Designed and developed a feature-rich Pomodoro Timer using Maven, enhancing productivity with a structured time management approach.",
+      link: "https://github.com/Chaiudbbhd/Pomodoro-timer-software.git",
     },
     {
       img: "https://i.ibb.co/vCSCyjV0/language.webp",
