@@ -19,4 +19,4 @@ in system terminal
 -- first navigate to path and run those commands
 
 ***LIVE DEMO***
-https://chaiudbbhd.github.io/Portfolio-react
+https://chaiudbbhd.github.io/portfolio-student/
