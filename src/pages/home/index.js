@@ -56,7 +56,7 @@ export const Home = () => {
                     </div>
                   </Link>
                   <a
-  href="https://purple-amalita-53.tiiny.site"
+  href="https://pink-carmella-84.tiiny.site"
   target="_blank"
   rel="noopener noreferrer"
   className="text_2"
