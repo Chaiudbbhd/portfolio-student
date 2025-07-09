@@ -11,7 +11,7 @@ export const Home = () => {
       <section id="home" className="home">
         <Helmet>
           <meta charSet="utf-8" />
-          <title> {meta.title}</title>
+          <title>{meta.title}</title>
           <meta name="description" content={meta.description} />
         </Helmet>
         <div className="intro_sec d-block d-lg-flex align-items-center ">
@@ -55,6 +55,19 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
+                  <a
+                    href="/resume.pdf" // path to your resume file in the public folder
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text_2"
+                  >
+                    <div id="button_r" className="ac_btn btn">
+                      My Resume
+                      <div className="ring one"></div>
+                      <div className="ring two"></div>
+                      <div className="ring three"></div>
+                    </div>
+                  </a>
                 </div>
               </div>
             </div>
